@@ -1,15 +1,15 @@
 ---
 layout: page
 title: About
-permalink: /about/
+featured_image: /assets/images/pages/about.jpg
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Charles Lavoie is a senior developer from Vilnius, Lithuania. After graduating from The College with a degree in **Computer Science**, he worked for three small web shops where he honed his development skills and love for JavaScript.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+His work has been recognized by Communication Arts, IBM, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. **Net** magazine named him a person to watch in 2018.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+>The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+
+As a hobby, Daniel authors the most influential JavaScript blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+
+*Thank You for reading!*
