@@ -6,39 +6,39 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-name: 'Royce'
-description: 'Web Developer'
-meta_description: 'Jekyll template, minimal style, perfect for bloggers.'
+name: 'Chris'
+description: 'Full-Stack .NET Developer'
+meta_description: 'Personal blog of Chris Tartamella'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'authorimage.jpg'
-  greetings: "Hi there! My name is Charles Lavoie. I'm a freelance web developer, author and speaker based in Montreal, Canada. It’s nice to meet you."
+  greetings: "My name is Chris Tartamella. I've been writing code since I was 10 and I don't intend to stop now.  I'm a full stack .NET developer based in Philadelphia, Pennsylvania."
 favicon: 'assets/images/favicon.ico'
 baseurl: 
 production_url: "https://chris.tartamella.me"
-disqus: 
-mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
+disqus: chris-tartamella-me
+mailchimp_url: #'//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
 # Add your GA Tracking Id
-ga_analytics: 
+ga_analytics: 'UA-82262711-1'
 
 # Contact form setings
 email: chris@tartamella.me
-contact_page_description: "Horace theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
-thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
+contact_page_description: "If I've written about something you have questions about, or you have content you'd like to see here, get in touch!"
+thankyou_page_description: "Thanks for your comments.  I'll get back to you as soon as possible."
 
 # Social links
-twitter: 'justgoodthemes'
-facebook: 'username'
-github: 'justgoodthemes'
-codepen: 'username'
-dribbble: 'username'
-medium: '@username'
-instagram: 'username'
-pinterest: 'username'
-linkedin: 'username'
-producthunt: '@username'
-quora: 'username'
+twitter: 'voicesfordaze'
+facebook: 'chris.tartamella.7'
+github: 'ctartamella'
+codepen:
+dribbble:
+medium:
+instagram:
+pinterest:
+linkedin: 'chris-tartamella-21a8bb115'
+producthunt: 
+quora:
 
 # Navigation
 navigation:
@@ -46,8 +46,8 @@ navigation:
     url: /
   - text: About
     url: /about
-  - text: Style Guide
-    url: /style-guide
+  - text: Reflutter
+    url: /reflutter
   - text: Contact Me
     url: /contact
 
